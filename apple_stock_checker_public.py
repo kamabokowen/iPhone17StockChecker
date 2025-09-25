@@ -47,7 +47,7 @@ STORES = {
     "R610": "Apple New Town Plaza"
 }
 
-# MG6L4ZA/A 是 港版 iPhone 17 Pro 256G 蓝色的型号
+# MG6L4ZA/A 是 港版 iPhone 17 256G 蓝色的型号
 BASE_URL = "https://www.apple.com/hk/shop/fulfillment-messages"
 PARAMS_TEMPLATE = {"pl": "true", "parts.0": "MG6L4ZA/A"}
 
